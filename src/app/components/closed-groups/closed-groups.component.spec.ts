@@ -5,7 +5,7 @@ import { TimeAgoPipe } from 'time-ago-pipe';
 import { TopicsService } from '../../services/topics.service';
 import { OrderService } from '../../services/order.service';
 import { DateService } from '../../services/date.service';
-import { Topic } from '../../models/Topic';
+import { Topic } from '../../models/topic';
 import { topicArray } from '../../models/MockTopics';
 import { Observable } from 'rxjs/Rx';
 import { DataTableModule } from 'angular2-datatable';

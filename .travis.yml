@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+  - 8.5.0
+script:
+  - "npm run test"
+deploy:
+  provider: heroku
+  api_key:
+    secure: 55f05f85-8553-47a3-9b6e-b344cc5da044
+  app: integrador2018frontend
+  on:
+    repo: jdvallejor/integrador2018
