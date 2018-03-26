@@ -18,8 +18,4 @@ export class DateService {
     this.today = `${year}-${month}-${day} ${hour}:${minutes}:${seconds}`;
     return this.today;
   }
-
-  format(date:string):string{ //YYYY-MM-DD hh:mm:ss
-    return date.slice(0,9);
-  }
 }
