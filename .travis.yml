@@ -15,4 +15,4 @@ deploy:
     master: integrador2018frontend
     test: integrador2018frontendtest
   on:
-    repo: jdvallejor/integrador2018api
+    repo: jdvallejor/integrador2018
