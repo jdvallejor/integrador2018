@@ -9,7 +9,10 @@ script:
 deploy:
   provider: heroku
   api_key:
-    secure: 55f05f85-8553-47a3-9b6e-b344cc5da044
-  app: integrador2018frontend
+    master: 55f05f85-8553-47a3-9b6e-b344cc5da044
+    test: c2c4954e-58e8-4839-96c3-1536a132abc9
+  app:
+    master: integrador2018frontend
+    test: integrador2018frontendtest
   on:
-    repo: jdvallejor/integrador2018
+    repo: jdvallejor/integrador2018api
