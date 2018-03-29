@@ -9,7 +9,7 @@ const httpOptions = {headers: new HttpHeaders({ 'Content-Type': 'application/jso
 
 @Injectable()
 export class TopicsService {
-  private apiUrl = 'https://integrador2018.herokuapp.com/topics'; 
+  private apiUrl = 'https://integrador2018apitest.herokuapp.com//topics'; 
   //private apiUrl = 'http://localhost:8080/topics';
 
   constructor(
