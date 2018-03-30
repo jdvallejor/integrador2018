@@ -21,8 +21,8 @@
       "description": "Esto es una descripción para Sewering",
       "status": 2,
       "chat": "sjkfhlks,jah.lskfa",
-      "teachers_count": 1,
-      "students_count": 12,
+      "teachers": 1,
+      "students": 12,
       "createdAt": "2017-12-11 1:43:58",
       "openedAt": "",
       "closedAt": "2018-03-01 10:04:08"
