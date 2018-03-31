@@ -7,6 +7,6 @@ To debug follow the next steps:
  - Execute these commands: 
 	 - npm install
 	 - npm start
- - The project runs in [http://localhost:8080/](http://localhost:8080/)
+ - The project runs in [http://localhost:4200/](http://localhost:4200/)
 
 **By : Universidad Nacional Team**
