@@ -9,6 +9,7 @@
 - Install protractor  `npm install -g protractor`.
 - Download Instance of Selenium Server: `webdriver-manager update`.
 3) Google Chrome already installed.
+4) Mozilla Firefox already installed.
 
 **RUN THE TEST**:
 To execute the test you must follow these steps:
@@ -31,4 +32,9 @@ Who made which test:
  - https://mercurio.psl.com.co/jira/browse/EP-297.
  - Verify that the administrator has the option to add a chat link for a new group.
  - I suppose that there is minimum one group to be open stored in the database.
- - File to execute the test: `EP297Config.js`.  
+ - File to execute the test: `EP297Config.js`. 
+ 
+ **EP-299: Andres Camilo Aguirre - Team 2**
+  - https://mercurio.psl.com.co/jira/browse/EP-299.
+  - Verify that when a group is opened, it goes to the "Open groups" tab.
+  - File to execute the test: `EP299Config.js`. 

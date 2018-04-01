@@ -10,6 +10,10 @@
     "chai-as-promised": "^5.3.0",
     "cucumber": "^0.10.3",
     "protractor": "^3.3.0",
+    "protractor-cucumber": "^0.1.8",
     "protractor-cucumber-framework": "^0.5.0"
+  },
+  "dependencies": {
+    "angular-protractor-cucumber": "^0.1.28"
   }
 }
