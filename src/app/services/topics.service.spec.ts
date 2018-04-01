@@ -34,7 +34,7 @@ describe('TopicsService', () => {
   }));
 
   it('should delete a topic', inject([TopicsService], (service: TopicsService) => {
-    service.deleteTopic(JSON.parse(JSON.stringify(topicArray[1]))).subscribe((topic: Topic) => {
+    service.deleteTopic(JSON.parse(JSON.stringify(topicArray[0]))).subscribe((topic: Topic) => {
       expect(topic).toBeDefined();
     });
   }));
