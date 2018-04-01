@@ -17,6 +17,6 @@ describe('DateService', () => {
     var date: string = service.getDate();
     expect(date).toContain(new Date().getDay().toString());
     expect(date).toContain(new Date().getMonth().toString());
-    expect(date).toContain(new Date().getFullYear().toString());
+    expect(date).toContain(new Date().getMonth().toString());
   }));
 });
