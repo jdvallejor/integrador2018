@@ -10,6 +10,10 @@ exports.config = {
         'browserName': 'chrome'
     },
 
+    onPrepare: function() {
+        browser.manage().window().maximize();
+    },
+
     framework: 'custom',
     frameworkPath: require.resolve('protractor-cucumber-framework'),
 
