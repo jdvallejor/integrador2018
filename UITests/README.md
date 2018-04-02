@@ -38,3 +38,8 @@ Who made which test:
   - https://mercurio.psl.com.co/jira/browse/EP-299.
   - Verify that when a group is opened, it goes to the "Open groups" tab.
   - File to execute the test: `EP299Config.js`. 
+  
+  **EP-303: Jose Alejandro Aristizabal Hoyos - Team 2**
+  - https://mercurio.psl.com.co/jira/browse/EP-303
+  - Verify that the Administrator can sort the list of topics by clicking on the column header.
+  - File to execute the test: `EP303Config.js`.
