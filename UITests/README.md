@@ -21,12 +21,6 @@ To execute the test you must follow these steps:
 4) The test will run.
 
 Who made which test:
-
- **EP-323: Edwin Álvarez Pineda - Team 2**
- - https://mercurio.psl.com.co/jira/browse/EP-323.
- - Verify that the topic list allow full navigation through the pages.
- - I suppose that the app has more than 10 elements in Groups to open.
- - File to execute the test: `EP323Config.js`. 
  
  **EP-297: Ana Vásquez - Team 2**
  - https://mercurio.psl.com.co/jira/browse/EP-297.
@@ -38,8 +32,19 @@ Who made which test:
   - https://mercurio.psl.com.co/jira/browse/EP-299.
   - Verify that when a group is opened, it goes to the "Open groups" tab.
   - File to execute the test: `EP299Config.js`. 
+
+  **EP-301: Daniel Cataño Restrepo - Team 2**
+  - https://mercurio.psl.com.co/jira/browse/EP-301
+  - Verify that the topics are highlighted when there are a minimum of collaborators interested in learn/guide.
+  - File to execute the test: `EP301Config.js`.  
   
   **EP-303: Jose Alejandro Aristizabal Hoyos - Team 2**
   - https://mercurio.psl.com.co/jira/browse/EP-303
   - Verify that the Administrator can sort the list of topics by clicking on the column header.
   - File to execute the test: `EP303Config.js`.
+
+   **EP-323: Edwin Álvarez Pineda - Team 2**
+ - https://mercurio.psl.com.co/jira/browse/EP-323.
+ - Verify that the topic list allow full navigation through the pages.
+ - I suppose that the app has more than 10 elements in Groups to open.
+ - File to execute the test: `EP323Config.js`. 
