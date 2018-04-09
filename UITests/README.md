@@ -41,5 +41,5 @@ Who made which test:
   
   **EP-303: Jose Alejandro Aristizabal Hoyos - Team 2**
   - https://mercurio.psl.com.co/jira/browse/EP-303
-  - Verify that the Administrator can sort the list of topics by clicking on the column header.
+  - Verify that the Administrator can sort the list of topics by clicking on the column header in "Open groups" tab.
   - File to execute the test: `EP303Config.js`.
